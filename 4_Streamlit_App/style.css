@@ -1,0 +1,202 @@
+/* ==========================================
+   Real Estate Predictor - Custom Styles
+   Team: Peter + Tony
+   ========================================== */
+
+/* Main Header */
+.main-header {
+    font-size: 3rem;
+    background: linear-gradient(90deg, #3498db, #2ecc71);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    text-align: center;
+    padding: 1rem 0;
+    margin-bottom: 0.5rem;
+}
+
+/* Sub Header */
+.sub-header {
+    font-size: 1.5rem;
+    color: #34495e;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+
+/* Result Box (Prediction Display) */
+.result-box {
+    padding: 2rem;
+    border-radius: 10px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 1rem 0;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Success Result Box (Sold) */
+.result-box-success {
+    padding: 2rem;
+    border-radius: 10px;
+    background: linear-gradient(135deg, #2ecc71 0%, #27ae60 100%);
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 1rem 0;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Danger Result Box (Not Sold) */
+.result-box-danger {
+    padding: 2rem;
+    border-radius: 10px;
+    background: linear-gradient(135deg, #e74c3c 0%, #c0392b 100%);
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 1rem 0;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Metric Card */
+.metric-card {
+    padding: 1rem;
+    border-radius: 10px;
+    background: white;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin: 0.5rem 0;
+}
+
+/* Info Card */
+.info-card {
+    padding: 1.5rem;
+    border-radius: 10px;
+    background: #f8f9fa;
+    border-left: 5px solid #3498db;
+    margin: 1rem 0;
+}
+
+/* Buttons */
+.stButton > button {
+    width: 100%;
+    background: linear-gradient(90deg, #3498db, #2ecc71);
+    color: white;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 0.8rem;
+    border: none;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.stButton > button:hover {
+    transform: scale(1.02);
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+    color: white;
+}
+
+/* Sidebar */
+.css-1d391kg {
+    background-color: #f8f9fa;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    color: gray;
+    padding: 1rem;
+    margin-top: 2rem;
+    border-top: 1px solid #e0e0e0;
+}
+
+/* Cards */
+.custom-card {
+    padding: 1.5rem;
+    border-radius: 10px;
+    background: white;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+    margin: 1rem 0;
+    border-top: 4px solid #3498db;
+}
+
+/* Success Message */
+.success-message {
+    padding: 1rem;
+    border-radius: 8px;
+    background: #d4edda;
+    border-left: 4px solid #28a745;
+    color: #155724;
+    margin: 1rem 0;
+}
+
+/* Warning Message */
+.warning-message {
+    padding: 1rem;
+    border-radius: 8px;
+    background: #fff3cd;
+    border-left: 4px solid #ffc107;
+    color: #856404;
+    margin: 1rem 0;
+}
+
+/* Error Message */
+.error-message {
+    padding: 1rem;
+    border-radius: 8px;
+    background: #f8d7da;
+    border-left: 4px solid #dc3545;
+    color: #721c24;
+    margin: 1rem 0;
+}
+
+/* Charts Container */
+.chart-container {
+    padding: 1rem;
+    border-radius: 10px;
+    background: white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    margin: 1rem 0;
+}
+
+/* Tabs */
+.stTabs [data-baseweb="tab-list"] {
+    gap: 8px;
+}
+
+.stTabs [data-baseweb="tab"] {
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+
+/* Metrics */
+[data-testid="stMetricValue"] {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+[data-testid="stMetricLabel"] {
+    font-size: 1rem;
+    color: #7f8c8d;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .main-header {
+        font-size: 2rem;
+    }
+    .sub-header {
+        font-size: 1.2rem;
+    }
+    .result-box {
+        font-size: 1.5rem;
+        padding: 1.5rem;
+    }
+}

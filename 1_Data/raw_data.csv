@@ -1,0 +1,251 @@
+Property_ID	Location	Property_Type	Area_SqM	Bedrooms	Bathrooms	Price_EGP	Is_Sold	Days_On_Market
+PROP-100	Nasr City	Penthouse	246	2	1	12380726	No	48
+PROP-101	5th Settlement	Duplex	170	4	2	7715140	No	60
+PROP-102	Maadi	Villa	281	1	2	5237973	Yes	160
+PROP-103	5th Settlement	Villa	98	1	3	3702575	No	115
+PROP-104	5th Settlement	Apartment	118	5	1	8111653	Yes	138
+PROP-105	Sheikh Zayed	Penthouse	205	4	1	1964071	Yes	112
+PROP-106	Maadi	Penthouse	252	1	3	5881137	No	152
+PROP-107	Maadi	Apartment	220	4	1	6412216	Yes	118
+PROP-108	Maadi	Apartment	321	2	1	10664043	No	82
+PROP-109	5th Settlement	Apartment	299	3	2	12063214	No	134
+PROP-110	Nasr City	Apartment	205	1	3	9097626	No	41
+PROP-111	Maadi	Penthouse	137	5	3	4998472	Yes	24
+PROP-112	5th Settlement	Apartment	227	2	3	12894924	Yes	30
+PROP-113	Sheikh Zayed	Apartment	396	4	3	9869689	No	33
+PROP-114	Nasr City	Apartment	80	2	2	3064718	No	5
+PROP-115	Sheikh Zayed	Apartment	269	1	2	6639743	No	123
+PROP-116	Nasr City	Apartment	270	4	1	12023401	Yes	39
+PROP-117	5th Settlement	Duplex	391	3	1	11491183	No	63
+PROP-118	New Cairo	Duplex	196	2	1	5313270	No	73
+PROP-119	Nasr City	Apartment	213	1	1	6306425	No	165
+PROP-120	Sheikh Zayed	Villa	137	5	2	8109876	Yes	16
+PROP-121	5th Settlement	Villa	123	4	3	3878837	No	24
+PROP-122	Nasr City	Villa	252	2	2	7623769	No	47
+PROP-123	New Cairo	Apartment	239	2	1	3024102	No	130
+PROP-124	New Cairo	Villa	252	3	2	13079149	Yes	54
+PROP-125	Maadi	Penthouse	396	3	3	14081046	No	33
+PROP-126	Maadi	Apartment	382	5	3	3883366	No	43
+PROP-127	Sheikh Zayed	Penthouse	228	5	2	3535848	Yes	175
+PROP-128	Nasr City	Apartment	159	1	2	6622930	No	155
+PROP-129	Nasr City	Apartment	292	1	2	12328463	No	176
+PROP-130	Maadi	Villa	282	5	1	10093223	Yes	42
+PROP-131	Nasr City	Villa	331	5	2	11413841	Yes	88
+PROP-132	Nasr City	Penthouse	308	4	2	13784630	No	155
+PROP-133	New Cairo	Apartment	243	3	2	11692348	Yes	132
+PROP-134	Maadi	Apartment	306	1	3	8191409	No	130
+PROP-135	5th Settlement	Villa	226	3	3	13856830	Yes	49
+PROP-136	Maadi	Duplex	99	3	1	12957501	No	56
+PROP-137	5th Settlement	Apartment	126	5	1	2338003	Yes	84
+PROP-138	New Cairo	Penthouse	312	4	3	4933382	No	128
+PROP-139	Sheikh Zayed	Apartment	384	2	3	10170178	No	123
+PROP-140	Nasr City	Apartment	93	4	3	13071601	No	12
+PROP-141	New Cairo	Penthouse	222	4	2	13969690	No	89
+PROP-142	Nasr City	Duplex	80	3	2	4895049	Yes	133
+PROP-143	Sheikh Zayed	Penthouse	133	4	3	1566150	No	12
+PROP-144	Sheikh Zayed	Apartment	338	1	2	9451632	Yes	161
+PROP-145	New Cairo	Villa	223	3	2	8929645	Yes	100
+PROP-146	Sheikh Zayed	Villa	91	1	1	12322814	Yes	106
+PROP-147	5th Settlement	Penthouse	303	2	3	7581687	No	9
+PROP-148	Sheikh Zayed	Apartment	351	3	3	10448331	No	90
+PROP-149	Nasr City	Apartment	235	2	2	4047500	No	179
+PROP-150	Nasr City	Apartment	87	3	3	13244353	No	38
+PROP-151	Nasr City	Apartment	201	5	1	10888162	Yes	59
+PROP-152	Nasr City	Apartment	243	4	1	5693060	No	123
+PROP-153	5th Settlement	Apartment	243	5	1	14047242	No	175
+PROP-154	Maadi	Apartment	215	2	3	1634055	No	162
+PROP-155	New Cairo	Duplex	265	4	3	10564630	Yes	118
+PROP-156	Nasr City	Penthouse	395	3	3	10698550	No	149
+PROP-157	Sheikh Zayed	Apartment	257	4	3	13767883	No	30
+PROP-158	Nasr City	Apartment	107	1	3	10584966	Yes	140
+PROP-159	Sheikh Zayed	Villa	299	4	1	13484398	Yes	51
+PROP-160	Sheikh Zayed	Apartment	120	1	2	3341648	No	117
+PROP-161	Nasr City	Apartment	307	4	1	8632508	No	80
+PROP-162	5th Settlement	Apartment	271	1	3	7937845	Yes	76
+PROP-163	Sheikh Zayed	Apartment	224	2	1	11577080	No	93
+PROP-164	Sheikh Zayed	Duplex	280	5	3	5328433	Yes	50
+PROP-165	Nasr City	Apartment	291	3	3	4235264	No	37
+PROP-166	Sheikh Zayed	Duplex	299	4	1	5948748	No	5
+PROP-167	Sheikh Zayed	Villa	319	5	3	12589321	No	151
+PROP-168	Nasr City	Apartment	125	3	2	8652747	No	35
+PROP-169	Nasr City	Apartment	114	3	3	12197597	Yes	146
+PROP-170	New Cairo	Apartment	332	1	2	5637270	Yes	57
+PROP-171	5th Settlement	Villa	161	2	2	5817922	No	52
+PROP-172	5th Settlement	Apartment	335	2	3	14004233	No	73
+PROP-173	Sheikh Zayed	Apartment	276	5	1	10347905	No	109
+PROP-174	5th Settlement	Villa	382	2	2	8965373	Yes	94
+PROP-175	Sheikh Zayed	Apartment	89	4	1	2520154	Yes	67
+PROP-176	New Cairo	Apartment	391	2	2	9570924	Yes	77
+PROP-177	Nasr City	Apartment	365	5	3	8343532	No	165
+PROP-178	Nasr City	Apartment	321	2	3	6445169	Yes	173
+PROP-179	Nasr City	Penthouse	321	4	2	8233215	No	93
+PROP-180	5th Settlement	Apartment	84	1	3	13965759	No	17
+PROP-181	New Cairo	Villa	198	5	2	9695810	No	77
+PROP-182	5th Settlement	Apartment	368	1	3	9404294	Yes	81
+PROP-183	5th Settlement	Villa	144	1	1	8685197	No	163
+PROP-184	New Cairo	Apartment	225	1	3	14623571	No	72
+PROP-185	New Cairo	Apartment	303	3	1	9671548	No	102
+PROP-186	New Cairo	Penthouse	318	3	3	8214301	No	129
+PROP-187	New Cairo	Duplex	256	1	1	14081046	No	106
+PROP-188	Nasr City	Penthouse	346	5	3	11981981	No	136
+PROP-189	Maadi	Apartment	361	4	1	12260888	Yes	106
+PROP-190	Maadi	Apartment	142	4	2	12805231	Yes	23
+PROP-191	New Cairo	Apartment	296	2	2	12595479	No	86
+PROP-192	Maadi	Villa	394	5	1	10758731	No	145
+PROP-193	Maadi	Apartment	362	3	3	14081046	No	27
+PROP-194	New Cairo	Duplex	256	1	1	9469693	No	87
+PROP-195	Maadi	Apartment	177	2	3	3359582	Yes	113
+PROP-196	5th Settlement	Penthouse	184	4	2	14333107	Yes	79
+PROP-197	Sheikh Zayed	Apartment	178	3	3	9244064	No	133
+PROP-198	Sheikh Zayed	Duplex	390	3	2	14081046	No	92
+PROP-199	New Cairo	Apartment	85	1	3	6220642	Yes	58
+PROP-200	Nasr City	Apartment	276	4	3	12095756	No	93
+PROP-201	New Cairo	Villa	212	5	3	14641133	Yes	147
+PROP-202	Nasr City	Apartment	338	3	1	2049239	No	69
+PROP-203	Sheikh Zayed	Apartment	102	1	1	10445309	Yes	80
+PROP-204	New Cairo	Penthouse	132	5	2	6908753	No	147
+PROP-205	5th Settlement	Duplex	244	4	2	4547569	Yes	153
+PROP-206	Maadi	Apartment	281	3	1	14981917	No	151
+PROP-207	Nasr City	Apartment	162	5	2	14516728	Yes	64
+PROP-208	Maadi	Apartment	224	5	1	11159072	Yes	97
+PROP-209	Maadi	Duplex	164	5	3	2285332	Yes	165
+PROP-210	New Cairo	Apartment	157	3	2	10656558	No	53
+PROP-211	Maadi	Apartment	80	3	2	10055080	No	39
+PROP-212	5th Settlement	Apartment	130	2	1	14081046	Yes	176
+PROP-213	Maadi	Apartment	252	4	2	8003216	No	106
+PROP-214	New Cairo	Villa	284	1	2	5817048	No	15
+PROP-215	5th Settlement	Apartment	339	5	3	4688729	No	103
+PROP-216	Sheikh Zayed	Penthouse	367	2	2	6285956	Yes	114
+PROP-217	Maadi	Apartment	113	1	3	6605724	No	78
+PROP-218	New Cairo	Apartment	174	2	1	6525764	Yes	178
+PROP-219	Sheikh Zayed	Apartment	151	3	2	12738779	Yes	13
+PROP-220	Sheikh Zayed	Apartment	118	5	3	9496198	No	7
+PROP-221	Nasr City	Penthouse	233	1	1	2410775	Yes	89
+PROP-222	5th Settlement	Villa	329	1	2	7454878	No	30
+PROP-223	Maadi	Villa	241	1	1	14995639	No	76
+PROP-224	New Cairo	Villa	197	1	2	12485482	No	52
+PROP-225	Nasr City	Apartment	338	1	1	7427997	No	160
+PROP-226	5th Settlement	Duplex	385	2	1	2058924	Yes	121
+PROP-227	Nasr City	Apartment	347	5	3	5381185	Yes	158
+PROP-228	5th Settlement	Villa	133	3	1	14262264	No	157
+PROP-229	5th Settlement	Apartment	315	3	2	6504998	Yes	16
+PROP-230	Maadi	Apartment	301	3	2	13901203	Yes	137
+PROP-231	5th Settlement	Apartment	330	3	3	14081046	Yes	52
+PROP-232	Nasr City	Apartment	392	2	2	6666650	Yes	41
+PROP-233	5th Settlement	Apartment	191	4	2	14997927	Yes	48
+PROP-234	Maadi	Apartment	334	5	2	14081046	Yes	19
+PROP-235	Maadi	Penthouse	382	1	1	9609916	No	47
+PROP-236	Nasr City	Apartment	286	4	1	6693278	No	91
+PROP-237	Sheikh Zayed	Apartment	308	3	2	1931413	No	74
+PROP-238	Sheikh Zayed	Duplex	145	4	3	11241172	Yes	50
+PROP-239	5th Settlement	Duplex	154	5	1	12312658	Yes	112
+PROP-240	New Cairo	Apartment	182	1	3	5665100	Yes	127
+PROP-241	5th Settlement	Apartment	271	1	2	2363561	No	175
+PROP-242	Nasr City	Villa	331	5	2	1802186	No	25
+PROP-243	Nasr City	Apartment	305	5	1	4707393	Yes	155
+PROP-244	Nasr City	Penthouse	373	3	2	6989464	No	111
+PROP-245	Nasr City	Penthouse	385	1	1	8956985	Yes	84
+PROP-246	Nasr City	Apartment	177	4	2	8267528	No	51
+PROP-247	Maadi	Apartment	365	2	2	13717072	No	121
+PROP-248	Sheikh Zayed	Penthouse	387	2	1	2526553	No	128
+PROP-249	Nasr City	Villa	328	5	1	11123810	No	147
+PROP-250	New Cairo	Villa	245	3	1	10033879	No	29
+PROP-251	New Cairo	Villa	109	2	2	12104293	Yes	40
+PROP-252	New Cairo	Villa	326	1	2	5243797	No	55
+PROP-253	New Cairo	Penthouse	185	5	3	3014542	Yes	19
+PROP-254	Maadi	Penthouse	130	4	1	7857718	No	72
+PROP-255	New Cairo	Penthouse	160	5	2	5680656	No	25
+PROP-256	Nasr City	Villa	212	4	2	12818792	No	145
+PROP-257	5th Settlement	Duplex	364	5	1	9965506	No	23
+PROP-258	New Cairo	Villa	217	5	3	13183705	No	38
+PROP-259	Maadi	Villa	263	5	1	8346192	No	82
+PROP-260	Maadi	Apartment	352	4	3	10176924	No	129
+PROP-261	New Cairo	Duplex	352	4	2	11897562	Yes	121
+PROP-262	5th Settlement	Duplex	113	5	3	8847689	Yes	56
+PROP-263	New Cairo	Villa	341	2	2	3329553	Yes	31
+PROP-264	Maadi	Duplex	341	3	1	13977265	Yes	161
+PROP-265	Sheikh Zayed	Villa	284	3	1	4541341	No	160
+PROP-266	Nasr City	Apartment	205	3	1	2539504	Yes	39
+PROP-267	Maadi	Apartment	314	4	3	8166455	No	140
+PROP-268	New Cairo	Apartment	122	4	2	13976418	Yes	148
+PROP-269	Nasr City	Apartment	319	2	1	11993666	Yes	110
+PROP-270	New Cairo	Apartment	190	3	1	9163589	No	168
+PROP-271	New Cairo	Villa	328	3	2	9418348	No	162
+PROP-272	Sheikh Zayed	Apartment	230	5	1	6488023	No	150
+PROP-273	Nasr City	Villa	262	4	2	9135836	No	6
+PROP-274	Nasr City	Apartment	174	3	2	9309006	No	81
+PROP-275	Sheikh Zayed	Villa	87	2	2	14797992	Yes	136
+PROP-276	Maadi	Apartment	263	2	2	3175843	No	94
+PROP-277	New Cairo	Apartment	360	3	2	9923309	No	93
+PROP-278	5th Settlement	Apartment	274	4	3	4729028	No	98
+PROP-279	New Cairo	Villa	274	2	1	8556993	Yes	11
+PROP-280	New Cairo	Apartment	234	5	3	3221610	No	99
+PROP-281	Maadi	Penthouse	172	2	1	12069320	Yes	112
+PROP-282	New Cairo	Apartment	239	1	3	3839767	Yes	78
+PROP-283	Sheikh Zayed	Apartment	140	1	2	4114235	Yes	43
+PROP-284	Sheikh Zayed	Penthouse	201	4	1	1991036	No	145
+PROP-285	Nasr City	Villa	130	3	1	10215912	No	163
+PROP-286	5th Settlement	Apartment	356	4	3	7546914	No	75
+PROP-287	New Cairo	Villa	84	4	3	12351224	No	60
+PROP-288	New Cairo	Villa	171	4	1	4210241	No	174
+PROP-289	Maadi	Duplex	249	4	3	13322411	Yes	46
+PROP-290	Sheikh Zayed	Apartment	396	5	3	2642953	Yes	40
+PROP-291	5th Settlement	Apartment	101	5	3	5461352	No	88
+PROP-292	Nasr City	Villa	80	2	2	5478702	Yes	122
+PROP-293	Sheikh Zayed	Penthouse	212	1	2	13947783	No	11
+PROP-294	Nasr City	Villa	312	4	3	9668984	No	58
+PROP-295	Maadi	Apartment	91	2	3	1826916	No	133
+PROP-296	Maadi	Villa	125	1	2	5097706	No	176
+PROP-297	New Cairo	Duplex	113	3	2	14081046	No	124
+PROP-298	5th Settlement	Apartment	157	5	1	2105409	No	177
+PROP-299	Nasr City	Apartment	297	1	1	10962743	No	110
+PROP-300	Sheikh Zayed	Villa	380	3	2	12877787	No	51
+PROP-301	Maadi	Apartment	152	1	3	8349486	Yes	127
+PROP-302	New Cairo	Apartment	361	5	3	6550405	No	145
+PROP-303	New Cairo	Apartment	328	5	3	9837735	No	123
+PROP-304	Nasr City	Apartment	126	2	3	3225690	Yes	154
+PROP-305	Maadi	Apartment	200	4	1	4780772	No	122
+PROP-306	5th Settlement	Penthouse	293	1	2	9697295	No	25
+PROP-307	Maadi	Duplex	318	1	3	7309041	No	141
+PROP-308	Nasr City	Apartment	135	3	1	14046501	Yes	30
+PROP-309	Nasr City	Penthouse	186	5	3	6587268	No	13
+PROP-310	Maadi	Villa	398	1	2	7655579	No	19
+PROP-311	Nasr City	Apartment	127	5	1	1903119	Yes	14
+PROP-312	Maadi	Apartment	140	1	2	9712420	Yes	126
+PROP-313	Sheikh Zayed	Apartment	105	2	2	14055377	No	125
+PROP-314	Maadi	Apartment	371	4	1	14208903	Yes	129
+PROP-315	Maadi	Villa	336	1	1	1902732	No	174
+PROP-316	Nasr City	Villa	87	5	1	2006079	No	76
+PROP-317	Nasr City	Apartment	192	2	1	3450013	Yes	156
+PROP-318	New Cairo	Penthouse	332	1	1	12512444	No	53
+PROP-319	New Cairo	Duplex	259	3	1	2632658	No	158
+PROP-320	Sheikh Zayed	Apartment	286	4	1	3485209	No	95
+PROP-321	New Cairo	Penthouse	382	1	3	5822626	Yes	41
+PROP-322	Maadi	Penthouse	206	2	2	2156951	No	72
+PROP-323	Nasr City	Penthouse	135	3	1	9899911	Yes	54
+PROP-324	New Cairo	Apartment	293	2	3	11098817	Yes	156
+PROP-325	New Cairo	Duplex	93	2	3	4979591	No	23
+PROP-326	Sheikh Zayed	Villa	107	3	3	6703916	Yes	104
+PROP-327	Sheikh Zayed	Duplex	157	2	2	7526988	No	64
+PROP-328	Maadi	Penthouse	295	3	1	8926263	Yes	171
+PROP-329	Nasr City	Villa	233	1	3	3866610	No	93
+PROP-330	Sheikh Zayed	Duplex	93	3	2	5680303	Yes	150
+PROP-331	New Cairo	Penthouse	266	3	2	10956807	No	151
+PROP-332	Nasr City	Duplex	391	4	2	14805947	No	168
+PROP-333	Nasr City	Apartment	86	3	3	14064832	Yes	73
+PROP-334	New Cairo	Apartment	86	3	1	6184346	Yes	179
+PROP-335	Sheikh Zayed	Apartment	190	1	3	1958298	Yes	53
+PROP-336	New Cairo	Penthouse	317	4	3	2547343	No	112
+PROP-337	Nasr City	Apartment	318	5	1	7219720	Yes	165
+PROP-338	5th Settlement	Villa	353	1	1	9993836	No	123
+PROP-339	5th Settlement	Apartment	373	1	1	6120650	No	153
+PROP-340	Maadi	Villa	306	5	2	3255692	Yes	154
+PROP-341	New Cairo	Penthouse	94	3	1	10772664	No	41
+PROP-342	New Cairo	Penthouse	271	2	3	3230228	No	147
+PROP-343	Maadi	Apartment	198	4	1	3446793	Yes	167
+PROP-344	Maadi	Penthouse	107	2	3	3069123	Yes	164
+PROP-345	Maadi	Villa	281	5	2	7615518	Yes	15
+PROP-346	Nasr City	Apartment	118	1	3	13167877	No	142
+PROP-347	New Cairo	Duplex	352	1	3	8893979	No	82
+PROP-348	Nasr City	Apartment	310	4	1	11615078	No	81
+PROP-349	Maadi	Apartment	165	1	1	13229028	No	157
