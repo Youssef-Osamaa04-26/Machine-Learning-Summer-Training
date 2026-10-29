@@ -1,0 +1,2 @@
+cd 4_Streamlit_App
+streamlit run app.py
